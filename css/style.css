@@ -104,4 +104,18 @@ body {
     border-bottom: 8px solid #222;
     margin-left: -20px;
     z-index: 2;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.piano__keys .white:nth-child(1) {
+    margin-left: 0;
+}
+.piano__keys .white:nth-child(5) {
+    margin-right: 20px;
+}
+.piano__keys .white:nth-child(12) {
+    margin-right: 20px;
+}
+.piano__keys .white:nth-child(17) {
+    margin-right: 20px;
 }
