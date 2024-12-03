@@ -119,3 +119,9 @@ body {
 .piano__keys .white:nth-child(17) {
     margin-right: 20px;
 }
+
+.black--pressed {
+    background: linear-gradient(#222, black);
+    border-bottom: none;
+    height: 148px;
+}
